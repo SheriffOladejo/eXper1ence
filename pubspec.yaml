@@ -1,0 +1,56 @@
+name: experience
+description: A new Flutter project.
+
+publish_to: 'none' # Remove this line if you wish to publish to pub.dev
+
+version: 1.0.0+1
+
+environment:
+  sdk: ">=2.7.0<3.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+  cupertino_icons: ^1.0.2
+  image_picker: ^0.8.4
+  image_cropper: ^2.0.2
+  path_provider: ^2.0.4
+  sqflite: ^2.0.0+4
+  http: ^0.13.3
+  url_launcher: ^6.1.5
+  firebase_storage: ^10.0.5
+  firebase_core: ^1.7.0
+  flutter_launcher_icons: ^0.9.2
+  percent_indicator: ^4.2.1
+  flutter_spinkit: ^5.1.0
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^1.0.0
+
+flutter_icons:
+  image_path: "assets/images/logo.png"
+  ios: true
+  android: "launcher_icon"
+
+flutter:
+  uses-material-design: true
+  assets:
+    - assets/images/
+  fonts:
+    - family: aventa_regular
+      fonts:
+        - asset: assets/font/aventa_regular.ttf
+    - family: aventa_black
+      fonts:
+        - asset: assets/font/aventa_black.ttf
+    - family: aventa_bold
+      fonts:
+        - asset: assets/font/aventa_bold.ttf
+    - family: aventa_light
+      fonts:
+        - asset: assets/font/aventa_light.ttf
+    - family: archivo_black
+      fonts:
+        - asset: assets/font/archivo_black.ttf

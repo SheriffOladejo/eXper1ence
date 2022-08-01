@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "22132665219",
+    "project_id": "experience-e55c9",
+    "storage_bucket": "experience-e55c9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:22132665219:android:a71b9b50c41d477642e4b6",
+        "android_client_info": {
+          "package_name": "com.appeXper1ence.sports"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "22132665219-dtfhjlc8j2mnp2pacfcfrjvfbs5tgrm4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAuUxvSVZYgXwJFC3qQ5hLQnOtMGGn8M5c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "22132665219-dtfhjlc8j2mnp2pacfcfrjvfbs5tgrm4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
